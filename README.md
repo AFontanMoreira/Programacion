@@ -2,7 +2,7 @@
 :speech_balloon: [1º DAM] - Ejercicios y Boletines de Programacion.
 
 `Último ejercicio añadido:` [Boletín 15](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/2%C2%BA%20Trimestre/Boletin15)
-
+`Extras:` [Extras](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Extras)
 1º Trimestre | 2º Trimestre | 3º Trimestre
 ------------ | ------------- | -------------
 [Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/1%C2%BA%20Trimestre) | [Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/2%C2%BA%20Trimestre) | Boletines
