@@ -1,11 +1,11 @@
 # Programacion
 :speech_balloon: [1º DAM] - Ejercicios y Boletines de Programacion.
 
-`Último ejercicio añadido:` [Boletín 19](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin19/src)
+`Último ejercicio añadido:` [Boletín 20](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin20/src)
 `Extras:` [Extras](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Extras)
 1º Trimestre | 2º Trimestre | 3º Trimestre
 ------------ | ------------- | -------------
-[Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/1%C2%BA%20Trimestre) | [Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/2%C2%BA%20Trimestre) | Boletines
+[Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/1%C2%BA%20Trimestre) | [Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/2%C2%BA%20Trimestre) | [Boletines](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre)
 
 ## Índice Detallado | Boletines - 1º Trimestre
 * [Boletin 2](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/1%C2%BA%20Trimestre/Boletin2)
@@ -61,4 +61,4 @@
 
 ## Índice Detallado | Boletines - 3º Trimestre
 * [Boletin_19](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin19/src)
-
+* [Boletín 20](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin20/src)
