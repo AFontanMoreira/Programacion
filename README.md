@@ -60,5 +60,5 @@
   * [15.3](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/2%C2%BA%20Trimestre/Boletin15/Boletin15.3/src)
 
 ## Índice Detallado | Boletines - 3º Trimestre
-* [Boletin_19](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin19/src)
+* [Boletin 19](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin19/src)
 * [Boletín 20](https://github.com/AFontanMoreira/Programacion/tree/master/Ejercicios/Boletines/3%C2%BA%20Trimestre/com.alexander.Boletin20/src)
